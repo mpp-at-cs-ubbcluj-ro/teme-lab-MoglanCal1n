@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MEDII DE PROIECTARE SI PROGRAMARE.iml" filepath="$PROJECT_DIR$/.idea/MEDII DE PROIECTARE SI PROGRAMARE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstLab/firstLab.iml" filepath="$PROJECT_DIR$/firstLab/firstLab.iml" />
     </modules>
   </component>
