@@ -1,0 +1,123 @@
+10 Mar 2025 16:44:29,206 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3Lab3} 
+10 Mar 2025 16:44:29,215 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:44:29,216 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:44:29,216 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3Lab3
+10 Mar 2025 16:44:29,217 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:44:29,217 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:44:29,507 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@38145825)
+10 Mar 2025 16:44:29,515 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:44:29,516 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:44:29,517 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3Lab3
+10 Mar 2025 16:44:29,517 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:44:29,518 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:44:29,520 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6f36c2f0)
+10 Mar 2025 16:46:36,702 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3cars.db} 
+10 Mar 2025 16:46:36,716 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:46:36,716 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:46:36,717 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3cars.db
+10 Mar 2025 16:46:36,717 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:46:36,718 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:46:37,010 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3e0e1046)
+10 Mar 2025 16:46:37,019 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:46:37,021 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:46:37,021 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3cars.db
+10 Mar 2025 16:46:37,021 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:46:37,021 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:46:37,023 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@29f7cefd)
+10 Mar 2025 16:48:22,311 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3Lab3cars.db} 
+10 Mar 2025 16:48:22,322 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:48:22,323 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:48:22,323 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3Lab3cars.db
+10 Mar 2025 16:48:22,323 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:48:22,324 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:48:22,636 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3e0e1046)
+10 Mar 2025 16:48:22,645 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:48:22,646 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:48:22,646 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersMoglan Calin-StefanCS UBBSEM 4MEDII DE PROIECTARE SI PROGRAMARELaboratoareLab1Lab3Lab3cars.db
+10 Mar 2025 16:48:22,646 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:48:22,647 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:48:22,649 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@29f7cefd)
+10 Mar 2025 16:49:42,342 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3/cars.db} 
+10 Mar 2025 16:49:42,348 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:49:42,348 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:49:42,349 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3/cars.db
+10 Mar 2025 16:49:42,349 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:49:42,349 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:49:42,380 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3/cars.db': The system cannot find the path specified
+10 Mar 2025 16:49:42,380 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 16:50:38,389 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3} 
+10 Mar 2025 16:50:38,397 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:50:38,397 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:50:38,399 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:50:38,399 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:50:38,399 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:50:38,692 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3e0e1046)
+10 Mar 2025 16:50:38,709 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:50:38,709 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:50:38,709 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:50:38,710 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:50:38,710 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:50:38,711 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@78452606)
+10 Mar 2025 16:51:12,381 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3} 
+10 Mar 2025 16:51:12,389 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:12,389 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:12,389 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:12,390 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:12,390 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:12,685 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7dc19a70)
+10 Mar 2025 16:51:12,692 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:12,693 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:12,693 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:12,694 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:12,694 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:12,697 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1f9f6368)
+10 Mar 2025 16:51:12,707 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:12,707 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:12,707 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:12,708 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:12,708 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:12,710 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@147e2ae7)
+10 Mar 2025 16:51:25,670 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3} 
+10 Mar 2025 16:51:25,679 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:25,681 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:25,681 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:25,681 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:25,682 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:25,990 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7dc19a70)
+10 Mar 2025 16:51:25,998 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:25,998 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:25,999 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:25,999 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:25,999 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:26,002 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1f9f6368)
+10 Mar 2025 16:51:26,006 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:26,006 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:26,007 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:26,007 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:26,007 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:26,010 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1c9b0314)
+10 Mar 2025 16:51:26,019 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:51:26,020 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:51:26,020 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:51:26,021 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:51:26,021 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:51:26,022 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@448c8166)
+10 Mar 2025 16:52:18,930 INFO  org.example.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3} 
+10 Mar 2025 16:52:18,938 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:52:18,938 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:52:18,938 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:52:18,939 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:52:18,939 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:52:19,232 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7dc19a70)
+10 Mar 2025 16:52:19,240 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:52:19,241 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:52:19,241 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:52:19,242 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:52:19,242 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:52:19,245 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1f9f6368)
+10 Mar 2025 16:52:19,256 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 16:52:19,256 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 16:52:19,259 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/Moglan Calin-Stefan/CS UBB/SEM 4/MEDII DE PROIECTARE SI PROGRAMARE/Laboratoare/Lab1/Lab3/Lab3
+10 Mar 2025 16:52:19,259 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 16:52:19,260 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 16:52:19,263 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@147e2ae7)
